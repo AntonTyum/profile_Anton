@@ -14,14 +14,18 @@
 
 ### Выполненые проекты:
 - [Резервное копирование](https://github.com/AntonTyum/VK-YANDAPI-HOMEWORK))
-- [ТГ-чат-бот Обучалка английскому языку]
+- [Реализация API онлайн-библиотеки](https://github.com/AntonTyum/HW_CRUD_DRF)
 - [Backend приложение для социальной сети для обмена фотографиями](https://github.com/AntonTyum/spd_diplom_netology))
-- [Разработка алгоритма обхода матрицы по спирали, полученной по сети]
-- [Разработка телеграм бота с редактированием изображений]
-
+- [Работа с ORM. Реализация сайта автосалона](https://github.com/AntonTyum/Homework_ORM_SHOP/tree/main)
+  
 
 ### Сертификаты и дипломы:
-- 
+- [Python Base](https://github.com/AntonTyum/profile_Anton/blob/main/certificate.PythonBase.pdf)
+- [Git](https://github.com/AntonTyum/profile_Anton/blob/main/certificateGit.pdf)
+- [OOP & API](https://github.com/AntonTyum/profile_Anton/blob/main/certificateOPPendIP.pdf)
+- [DataBase for Python Developer](https://github.com/AntonTyum/profile_Anton/blob/main/certificateDatabase%20for%20python.pdf)
+- [Django Base](https://github.com/AntonTyum/profile_Anton/blob/main/certificateDjango.pdf)
+- [Python Developer](https://github.com/AntonTyum/profile_Anton/blob/main/certificatePython-developer.pdf)
 
 
 ### Контакты: 
