@@ -31,4 +31,4 @@
 ### Контакты: 
  - WhatsApp, Telegram : 7-922-008-54-99
  - Mail 79220085499@yandex.ru
- - [Резюме]
+ - [Резюме](https://github.com/AntonTyum/profile_Anton/blob/main/KirichenkoAA.docx)
