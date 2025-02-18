@@ -13,7 +13,7 @@
 
 
 ### Выполненые проекты:
-- [Резервное копирование](https://github.com/AntonTyum/VK-YANDAPI-HOMEWORK))
+- [Резервное копирование](https://github.com/AntonTyum/VK-YANDAPI-HOMEWORK)
 - [Реализация API онлайн-библиотеки](https://github.com/AntonTyum/HW_CRUD_DRF)
 - [Backend приложение для социальной сети для обмена фотографиями](https://github.com/AntonTyum/spd_diplom_netology))
 - [Работа с ORM. Реализация сайта автосалона](https://github.com/AntonTyum/Homework_ORM_SHOP/tree/main)
